@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Random Image Feed GitHub Solution](https://github.com/MaryAngelique/random-image-feed)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
