@@ -17,11 +17,8 @@
 
 Users should be able to:
 
-#### - 
+#### - See the random images that are generated
 
-#### - 
-
-#### - 
 
 ### Features
 
