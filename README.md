@@ -31,8 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Random Image Feed GitHub Solution](https://github.com/MaryAngelique/random-image-feed)
-- Live Site URL: [ Website](Deployed website)
-
+- Live Site URL: [Random Image Feed Website](https://random-image-feed-six.vercel.app/)
 ## My process
 
 ### Built with
